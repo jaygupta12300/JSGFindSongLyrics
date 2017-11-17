@@ -3,7 +3,8 @@ Step 1:
 	sudo apt-get install python3-tk
 Step 2:	
 	sudo apt-get install python-lxml
-Step 3:
+Step 3:	
+	python
 	pip install cssselect
 Step 4:
 	pip install eyeD3
